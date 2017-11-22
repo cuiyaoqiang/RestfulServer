@@ -1,1 +1,21 @@
 
+grizzly-http-server-core-2.4.1.jar
+hk2-api-2.5.0-b42.jar
+hk2-locator-2.5.0-b42.jar
+hk2-utils-2.5.0-b42.jar
+jackson-core-asl.jar
+jackson-jaxrs.jar
+jackson-mapper-asl.jar
+jackson-xc.jar
+javax.annotation-api-1.2.jar
+javax.inject-2.5.0-b42.jar
+javax.servlet-api.jar
+javax.ws.rs-api-2.1-m09.jar
+jersey-client.jar
+jersey-common.jar
+jersey-container-grizzly2-http-2.26-b09.jar
+jersey-container-servlet-core.jar
+jersey-container-servlet.jar
+jersey-hk2.jar
+jersey-server.jar
+validation-api-1.1.0.Final.jar
